@@ -48,8 +48,8 @@ section{
     transition: all .4s ease-in-out;
     padding: 10px 27px;
     background-color: transparent;
-    border: 2px solid var(--gray-color);
-    color: var(--text-gray);
+    border: 2px solid #fff;
+    color: #fff;
     font-weight: 500;
     font-size: 14px;
     text-transform: uppercase;
