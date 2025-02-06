@@ -48,7 +48,7 @@ section{
     transition: all .4s ease-in-out;
     padding: 10px 27px;
     background-color: transparent;
-    border: 2px var(--text-white);
+    border: 2px #fff;
     color: var(--text-white);
     font-weight: 500;
     font-size: 14px;
